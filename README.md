@@ -127,8 +127,8 @@ An interactive Power BI dashboard was built to explore the data visually, with f
    ```bash
    pip install pandas psycopg2-binary
    ```
-3. Run the Python notebook to clean the data and load it into PostgreSQL
-4. Execute the SQL scripts in `sql/` against your PostgreSQL instance
+3. Run the Python notebook to clean the data and load it into MySQL
+4. Execute the SQL scripts in `sql/` against your MySQL instance
 5. Open the `.pbix` file in Power BI Desktop to explore the dashboard
 
 ---
