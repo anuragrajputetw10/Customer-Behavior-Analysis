@@ -50,7 +50,7 @@ The goal is to translate raw transactional data into **actionable business recom
   - Created an `age_group` column by binning customer ages
   - Created a `purchase_frequency_days` column from purchase data
 - Verified `discount_applied` and `promo_code_used` for redundancy and dropped the duplicate column
-- Loaded the cleaned dataset into PostgreSQL for SQL-based analysis
+- Loaded the cleaned dataset into MySQL for SQL-based analysis
 
 ---
 
