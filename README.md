@@ -4,7 +4,7 @@ An end-to-end data analysis project exploring shopping behavior across **3,900 c
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Overview  
 
 This project analyzes customer shopping behavior using transactional data to uncover insights into:
 
