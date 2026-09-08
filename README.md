@@ -125,7 +125,7 @@ An interactive Power BI dashboard was built to explore the data visually, with f
    ```
 2. Install dependencies
    ```bash
-  pip install pandas pymysql
+   pip install pandas pymysql
    ```
 3. Run the Python notebook to clean the data and load it into MySQL
 4. Execute the SQL scripts in `sql/` against your MySQL instance
